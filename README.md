@@ -11,4 +11,4 @@ Kaiwen Yu, Gang Wu, Shaoqian Li, GeoffreyYe Li. Local Observations-Based Energy-
 
 K. Yu, C. Zhao, G. Wu and G. Y. Li, “Distributed two-tier drl framework for cell-free network: association, beamforming and power allocation,” in Proc. IEEE Int’l Conf. Commun.(ICC), Rome, Italy, June. 2023, pp. 1830-1836.
 
-Any use of the codes should explicitly cite the aforementioned paper.
+If you find the code is useful for your research, please cite the aforementioned paper.
