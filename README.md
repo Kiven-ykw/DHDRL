@@ -11,6 +11,9 @@ K. Yu, C. Zhao, G. Wu and G. Y. Li, “Distributed two-tier drl framework for ce
 
 **The full version of the journal paper has been initially published:
 
-**K. Yu, Q. He, C. Yu, X. Yang and G. Wu, "Distributed Hierarchical Deep Reinforcement Learning for Semantic-aware Resource Allocation," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2025.3571485.**
+**K. Yu, Q. He, C. Yu, X. Yang and G. Wu, "Distributed Hierarchical Deep Reinforcement Learning for Semantic-aware Resource Allocation," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2025.3571485.**[paper](https://ieeexplore.ieee.org/document/11006945)
+
+
+
 
 If you find the code is useful for your research, please cite the aforementioned paper.
